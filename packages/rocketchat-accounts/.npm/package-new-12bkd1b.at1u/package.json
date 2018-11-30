@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@accounts/server": "0.0.18",
+    "@accounts/mongo": "0.0.12"
+  }
+}
